@@ -1,14 +1,18 @@
-# Memory Game 🎮
+# Typing Game 🎮
 
-A memory-based Android game built using Android Studio.
+A typing-based Android game built using Android Studio.
 
 ## Features
-- Impove typing speed
+- Real-time typing gameplay
 - Score tracking system
-- Simple and clean UI
+- Simple and user-friendly UI
+- Improves typing speed and accuracy
 
 ## How to Play
-- Complete the game with minimum moves
+- Start the game
+- Type the given words or sentences
+- Try to type as fast and accurately as possible
+- Score increases based on speed and correctness
 
 ## Built With
 - Android Studio
